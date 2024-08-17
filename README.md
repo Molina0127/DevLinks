@@ -40,10 +40,7 @@ Esse projeto foi feito assistindo as aulas do Discover da Rocketseat, caso queir
 
 ## 🔖 Layout
 
-<a href="https://www.figma.com" target="_blank">Clique aqui para abrir em uma nova aba</a>
-
-
-Você pode visualizar o layout do projeto através desse [Link](https://www.figma.com/community/file/1187422022288947321){:target="_blank"}. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através desse [Link](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
