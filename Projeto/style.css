@@ -38,7 +38,7 @@ body * {
 #container {
     width: 100%;
     max-width: 588px;
-    margin: 56px auto 0px;
+    margin: 0.875rem auto 0px;
     padding: 0 24px;
 }
 
@@ -172,6 +172,12 @@ footer {
 
     .light {
         --bg-url: url(./assets/bg-desktop-light.jpg);
+    }
+}
+
+@media (min-height: 1200px) {
+    #container {
+        margin: 56px auto 0px;
     }
 }
 
