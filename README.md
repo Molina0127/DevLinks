@@ -46,7 +46,7 @@ Você pode visualizar o layout do projeto através desse [Link](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
-## Aprendizado
+## 🧑🏻‍💻 Aprendizado
 
 Durante esse projeto eu desenvolvi minhas habilidades com HTML, CSS, JS, Git e Figma. Busquei extrair ao máximo cada uma das aulas e entender com profundidade os temas abordados, além disso também aprendi bastante sobre como aprender e sobre o funcionamento da Internet. Foi muito bom realizar esse linktree e realmente compreender cada linha de código, espero que gostem do resultado.
 
